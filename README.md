@@ -50,7 +50,6 @@ output = (KP × error) + (KI × integral) + (KD × derivative)
 
 ---
 
----
 
 ## Observations — Why Each PID Term Is Necessary
 
@@ -95,6 +94,9 @@ Adding the derivative term reduces overshoot by detecting how fast the motor is 
 ---
 
 ## What The Graph Shows
+
+(Note: PID output graph generated during analysis — 
+not included in final version)
 
 ![PID Controller Graph](pid_response.png)
 
