@@ -96,7 +96,7 @@ Adding the derivative term reduces overshoot by detecting how fast the motor is 
 
 ## What The Graph Shows
 
-![PID Controller Graph](pid_response)
+![PID Controller Graph](pid_response.png)
 
 The blue line is motor speed. The orange dashed line is the target speed. The red line is the PID output signal — the controller's effort at each moment.
 
