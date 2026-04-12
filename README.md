@@ -52,7 +52,7 @@ output = (KP × error) + (KI × integral) + (KD × derivative)
 
 ## What The Graph Shows
 
-![PID Controller Graph](pid_response.png)
+![PID Controller Graph](pid_response)
 
 The blue line is motor speed. The orange dashed line is the target speed. The red line is the PID output signal — the controller's effort at each moment.
 
