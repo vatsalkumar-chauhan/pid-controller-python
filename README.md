@@ -149,7 +149,7 @@ pip install numpy matplotlib
 ## Run
 
 ```
-python pid_controller.py
+python pid_controler.py
 ```
 
 Saves graph as `pid_response.png` in the same directory.
